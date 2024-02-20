@@ -17,4 +17,4 @@ O plugin foi configurado para trabalhar com o "generatepress", então se for uti
 
 Vale lembrar que o banco de dados está configurado no padrão wordpress com prefix (wp_)
 
-
+shortcode [forro_reservation_system_tables]
