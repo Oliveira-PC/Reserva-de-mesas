@@ -1,5 +1,4 @@
 # Reserva-de-mesas
-plugin wordpress para reserva de mesas
 
 Para o Funcionamento correto do plugin é necessario colocar a pasta "reservations" dentro da pasta do seu tema em "wp-content".
 
