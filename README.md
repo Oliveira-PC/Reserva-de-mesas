@@ -1,5 +1,9 @@
 # Reserva-de-mesas
 
+Para a instalação do plugin você deve ter acesso aos arquivo do wordpress
+
+Coloque a pasta "forro-reservation-system" dentro da pasta plugins em wp-content
+
 Para o Funcionamento correto do plugin é necessario colocar a pasta "reservations" dentro da pasta do seu tema em "wp-content".
 
 O plugin foi configurado para trabalhar com o "generatepress", então se for utilizar com outro altere linhas 28 e 121 do "reservation-script.js"
@@ -11,3 +15,5 @@ O plugin foi configurado para trabalhar com o "generatepress", então se for uti
 	$dbname = "nome_banco_dados"; // substitua pelo nome do seu banco de dados
 
 Vale lembrar que o banco de dados está configurado no padrão wordpress com prefix (wp_)
+
+
